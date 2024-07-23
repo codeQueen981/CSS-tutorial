@@ -1,0 +1,31 @@
+/* 
+Challenge:
+Re-design the cookie widget!
+PS: Make sure you change ALL of the listed CSS properties.
+*/
+
+body {
+    background: rgb(255, 225, 242);    /* red, blue, yellow, etc */
+    color: rgb(186, 0, 62);       /* red, blue, yellow, etc */
+    font-size: larger;            /* 0px - 100px and beyond */
+    font-weight: bold;            /* lighter, normal, bold  */
+    text-align: center;          /* left, center or right  */
+    margin-top: 30px;             /* From 0px and upwards   */
+}
+
+.main{
+  
+}
+
+.logo-img {
+  margin-top: 100px;
+  width: 300px;
+  align-items: center;
+  display: block;             /*  displays on top of each other or aligns under each object / item */
+}
+
+.search-input {
+  width: 400px;
+  text-align: center;
+  display: block; 
+}
