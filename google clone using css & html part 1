@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+    <head>
+   <title> CSS Tutorial</title>
+   <link rel="stylesheet" href="styles.css">
+    </head>
+
+      <!--google clone using css & html-->
+
+
+    <body>
+        Pls accept our cookies!
+        <!--this is a sample google clone that we've learned thorugh scrimba-->
+        <!--we have learned bits of CSS, detroyed wikepedia by changing font sizes and background colors, etc. we've linked sm css files like rel=stylsheet
+        and href=styles.css, learned how to adjust the width and height which is also called margin or padding, then we delved about the differences of inline and block elements
+        then we have explored how & when to use div and div class = div is like telling -->
+
+        <!--differences bet div & div class
+        
+        <div>: A generic division or section in an HTML document.
+
+        <div class="classname">: A division or section that can 
+         be styled and manipulated based on the class name.
+
+        -->
+
+
+             <!--IN Line Elements & Block Elements-->
+        <div class="main"> 
+              <img class="logo-img" src="https://th.bing.com/th/id/R.4aa108082e7d3cbd55add79f84612aaa?rik=I4dbPhSe%2fbHHSg&riu=http%3a%2f%2fpurepng.com%2fpublic%2fuploads%2flarge%2fpurepng.com-google-logo-2015brandlogobrand-logoiconssymbolslogosgoogle-6815229372333mqrr.png&ehk=ewmaCOvP0Ji4QViEJnxSdlrYUrTSTWhi8nZ9XdyCgAI%3d&risl=&pid=ImgRaw&r=0">
+              <input class="search-input" type="text">
+
+               <div>
+                <button>Google Search</button>
+                <button >I'm Feeling Lucky</button>
+               </div>
+
+        </div>
+
+
+
+    </body>
+</html>
